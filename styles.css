@@ -22,6 +22,7 @@ nav ul {
 
 nav ul li {
     float: left;
+    position: relative;
 }
 
 nav ul li a, .dropbtn {
